@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Stripe Capture Request.
+ * Transaction Express Capture Request.
  */
-namespace Omnipay\Stripe\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 /**
  * Stripe Capture Request.

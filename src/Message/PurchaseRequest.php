@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Stripe Purchase Request.
+ * Transaction Express Purchase Request.
  */
-namespace Omnipay\Transactionexpress\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 class PurchaseRequest extends AuthorizeRequest
 {

@@ -3,7 +3,7 @@
 /**
  * Stripe Abstract Request.
  */
-namespace Omnipay\Transactionexpress\Message;
+namespace Omnipay\TransactionExpress\Message;
 use Omnipay\Common\Exception\InvalidResponseException;
 
 abstract class AbstractRequest extends \Omnipay\Common\Message\AbstractRequest

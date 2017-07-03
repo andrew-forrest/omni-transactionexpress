@@ -3,7 +3,7 @@
 /**
  * Transaction Express Authorize Request.
  */
-namespace Omnipay\Transactionexpress\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 class AuthorizeRequest extends AbstractRequest
 {
