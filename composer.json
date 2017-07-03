@@ -1,5 +1,5 @@
 {
-    "name": "hostmerchantservices/omni-transactionexpress",
+    "name": "hostmerchantservices/omnipay-transactionexpress",
     "type": "library",
     "description": "Transaction Express driver for the Omnipay payment processing library",
     "keywords": [
@@ -17,8 +17,9 @@
         {
             "name": "Andrew Forrest",
             "homepage": "andrew@hostmerchantservices.com"
-        },
+        }
     ],
+
     "autoload": {
         "psr-4": { "Omnipay\\Transactionexpress\\" : "src/" }
     },
