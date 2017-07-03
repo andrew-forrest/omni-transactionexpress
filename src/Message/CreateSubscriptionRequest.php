@@ -3,7 +3,7 @@
 /**
  * Stripe Create Subscription Request.
  */
-namespace Omnipay\Stripe\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 /**
  * Stripe Create Subscription Request

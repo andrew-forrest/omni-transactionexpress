@@ -3,7 +3,7 @@
 /**
  * Stripe Create Invoice Item Request.
  */
-namespace Omnipay\Stripe\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 /**
  * Stripe Create Invoice Item Request

@@ -3,7 +3,7 @@
 /**
  * Stripe Delete Invoice Item Request.
  */
-namespace Omnipay\Stripe\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 /**
  * Stripe Delete Invoice Item Request.

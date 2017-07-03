@@ -3,7 +3,7 @@
 /**
  * Stripe Create Plan Request.
  */
-namespace Omnipay\Stripe\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 /**
  * Stripe Create Plan Request

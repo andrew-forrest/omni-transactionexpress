@@ -3,7 +3,7 @@
 /**
  * Stripe Response.
  */
-namespace Omnipay\Stripe\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 use Omnipay\Common\Message\AbstractResponse;
 
@@ -36,8 +36,8 @@ class Response extends AbstractResponse
     /**
      * Get the charge reference from the response of FetchChargeRequest.
      * 
-     * @deprecated 2.3.3:3.0.0 duplicate of \Omnipay\Stripe\Message\Response::getTransactionReference()
-     * @see \Omnipay\Stripe\Message\Response::getTransactionReference()
+     * @deprecated 2.3.3:3.0.0 duplicate of \Omnipay\TransactionExpress\Message\Response::getTransactionReference()
+     * @see \Omnipay\TransactionExpress\Message\Response::getTransactionReference()
      * @return array|null
      */
     public function getChargeReference()

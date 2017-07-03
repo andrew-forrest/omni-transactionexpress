@@ -3,7 +3,7 @@
 /**
  * Stripe Cancel Subscription Request.
  */
-namespace Omnipay\Stripe\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 /**
  * Stripe Cancel Subscription Request.

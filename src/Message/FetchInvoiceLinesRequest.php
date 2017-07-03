@@ -3,7 +3,7 @@
 /**
  * Stripe Fetch Invoice Lines Request.
  */
-namespace Omnipay\Stripe\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 /**
  * Stripe Fetch Invoice Lines Request.

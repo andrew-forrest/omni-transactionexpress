@@ -3,7 +3,7 @@
 /**
  * Stripe List Plans Request.
  */
-namespace App\Lib\Omnipay\Stripe\Message;
+namespace App\Lib\Omnipay\TransactionExpress\Message;
 
 // use Omnipay\Common\Message\AbstractRequest;
 
@@ -13,7 +13,7 @@ namespace App\Lib\Omnipay\Stripe\Message;
  * @see Omnipay\Stripe\Gateway
  * @link https://stripe.com/docs/api/curl#list_plans
  */
-class ListPlansRequest extends \Omnipay\Stripe\Message\AbstractRequest
+class ListPlansRequest extends \Omnipay\TransactionExpress\Message\AbstractRequest
 {
     public function getData()
     {

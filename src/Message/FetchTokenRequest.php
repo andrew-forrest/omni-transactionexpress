@@ -3,7 +3,7 @@
 /**
  * Stripe Fetch Token Request.
  */
-namespace Omnipay\Stripe\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 /**
  * Stripe Fetch Token Request.

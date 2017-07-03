@@ -3,7 +3,7 @@
 /**
  * Stripe List Invoices Request.
  */
-namespace Omnipay\Stripe\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 /**
  * Stripe List Invoices Request.

@@ -3,7 +3,7 @@
 /**
  * Stripe Delete Plan Request.
  */
-namespace Omnipay\Stripe\Message;
+namespace Omnipay\TransactionExpress\Message;
 
 /**
  * Stripe Delete Plan Request.
