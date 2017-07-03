@@ -21,7 +21,7 @@
     ],
 
     "autoload": {
-        "psr-4": { "Omnipay\\Transactionexpress\\" : "src/" }
+        "psr-4": { "Omnipay\\TransactionExpress\\" : "src/" }
     },
     "require": {
         "omnipay/common": "~2.0"
