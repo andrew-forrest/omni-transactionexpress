@@ -1,0 +1,36 @@
+{
+    "name": "hostmerchantservices/omni-transactionexpress",
+    "type": "library",
+    "description": "Transaction Express driver for the Omnipay payment processing library",
+    "keywords": [
+        "gateway",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment",
+        "transactionexpress",
+        "hostmerchantservices"
+    ],
+    "homepage": "https://github.com/hostmerchantservices/omnipay-transactionexpress",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Forrest",
+            "homepage": "andrew@hostmerchantservices.com"
+        },
+    ],
+    "autoload": {
+        "psr-4": { "Omnipay\\Transactionexpress\\" : "src/" }
+    },
+    "require": {
+        "omnipay/common": "~2.0"
+    },
+    "require-dev": {
+        "omnipay/tests": "~2.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0.x-dev"
+        }
+    }
+}
