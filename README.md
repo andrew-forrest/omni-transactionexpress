@@ -1,3 +1,1 @@
-# omnipay-transactionexpress
-
-Omnipay: Transaction Express
+# Omnipay: Transaction Express
